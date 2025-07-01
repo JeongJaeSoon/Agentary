@@ -4,6 +4,7 @@
     "Langfuse",
     "Streamlit",
     "Tiltfile",
+    "uvicorn",
     "vectordb"
   ]
 }

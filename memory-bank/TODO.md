@@ -5,6 +5,7 @@
 * **목표:** 최소한의 리소스로 핵심 기술 가설("우리 데이터로 AI가 똑똑한 답변을 할 수 있는가?") 검증.
 * **주요 To-Do:**
   * **환경 설정:**
+    * [ ] 디렉토리 구조 설정 (`backend/`, `frontend/` 등).
     * [ ] `uv`를 사용하여 Python 가상 환경 생성 및 의존성 관리 설정.
     * [ ] `Tiltfile` 구성: FastAPI 백엔드 및 Streamlit MVP UI 자동 재시작 설정.
     * [ ] `.env` 및 `.env.example` 파일로 로컬 개발 환경 변수 관리 (OpenAI API Key, Langfuse 키 등).
