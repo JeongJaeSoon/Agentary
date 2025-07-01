@@ -1,6 +1,6 @@
 # Document Management Rules
 
-As development progresses, please check the `docs/prd.md` and `docs/technical_design.md` documents frequently and update them immediately if any changes occur to keep them up to date.
+As development progresses, please check the `docs/*.md` and `memory-bank/*.md` documents frequently and update them immediately if any changes occur to keep them up to date.
 
 ## Gemini Agent Document Usage Guide
 
